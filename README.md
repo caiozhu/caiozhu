@@ -1,58 +1,23 @@
-<img src="./banner2.png" width="100%" />
+<img src="./banner.png" alt="Caio Zhu — Software Development and Automation" width="100%" />
 
-<h1 align="center">Caio Zhu</h1>
+I'm a Systems Analysis and Development student at Fatec-SP, based in São Paulo. I build web applications and business automation, drawing on a background in import trade and an interest in economics and data analysis.
 
-<p align="center">
-  Student of Systems Analysis and Development (ADS) at Fatec-SP
-</p>
+At [lokp](https://www.lokptech.site), I work on custom software, process automation, and systems integration for businesses. My current studies focus on Java, databases, and algorithms.
 
-<p align="center">
-  Aspiring Full Stack Developer • Economics • Data Analysis • Automation
-</p>
+## Projects
 
-<p align="center">
-  Portuguese 🇧🇷 • English 🇺🇸 • 中文 🇨🇳
-</p>
-
----
-
-## About Me
-
-I'm a programming student focused on building a solid foundation in software development, with interests in economics, data analysis, automation, and technology.
-
-Currently studying Java, databases, algorithms, and modern web development while developing projects to strengthen my portfolio.
-
----
+- **[lokp](https://github.com/caiozhu/lokp)**: company website for a custom software and automation service, available at [lokptech.site](https://www.lokptech.site).
+- **[shopee](https://github.com/caiozhu/shopee)**: storefront page for an automotive LED lighting store, available on [GitHub Pages](https://caiozhu.github.io/shopee/).
 
 ## Technologies
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" alt="Linux"/>
-</p>
+| Area | Tools |
+| --- | --- |
+| Languages | Java, Python, JavaScript, SQL |
+| Web | React, Next.js, HTML, CSS |
+| Databases | MySQL |
+| Tools | Git, GitHub, Linux |
 
----
+## Languages
 
-## GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codaryn&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codaryn&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">LinkedIn</a>
-</p>
+Portuguese, English, and Chinese.
